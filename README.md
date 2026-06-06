@@ -43,7 +43,6 @@ Transport decarbonization pathways are often hard to compare across cities becau
 ```python
 LAB_ID = "BOS"  # or your lab ID
 OUTPUT_STEM = "scenarios_master_boston"
-APPLY_GIP_COMPATIBILITY_PATCH = False
 ```
 
 3. Run all cells. This creates:
